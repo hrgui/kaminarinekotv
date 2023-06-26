@@ -1,0 +1,21 @@
+{
+  "appSettings": {
+    "stage": {
+      "useImageWorker": true,
+      "clearColor": "0xff000000",
+      "w": 1920,
+      "h": 1080,
+      "precision": 1,
+      "devicePixelRatio": 1,
+      "defaultFontFace": "Regular"
+    },
+    "debug": true
+  },
+  "platformSettings": {
+    "path": "./static",
+    "log": true,
+    "showVersion": true,
+    "inspector": true,
+    "showFps": true
+  }
+}

@@ -1,0 +1,2852 @@
+// Vitest Snapshot v1
+
+exports[`createContentFeedFixture > should work with something passed in as an override 1`] = `
+{
+  "description": "Our biggest hit!",
+  "id": 1,
+  "items": [
+    {
+      "additionalContentAudioTypes": [
+        {
+          "id": 2,
+          "name": "English",
+        },
+      ],
+      "description": "Rent a cat for a day to adore in its cuteness",
+      "genres": [
+        "romance",
+        "comedy",
+        "harem",
+      ],
+      "id": 1,
+      "images": {
+        "asFeed": "https://placekitten.com/150/225?image=9",
+        "asPageHeader": "https://placekitten.com/1200/675?image=9",
+      },
+      "items": [
+        {
+          "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+          "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 1,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 1",
+        },
+        {
+          "description": "kitty meow kitty kitty. meoooww mix kitty meow mix meoooww nyan kitty nyaa meoooww. cat neko kitty mix nyan nyaa neko meoooww. nyan meow meow mix meow.",
+          "id": "4b3eaaa0-f84b-4113-8450-a8dc74f492d7",
+          "image": "https://placekitten.com/240/135?image=4",
+          "itemNumber": 2,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 42,
+              "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 2",
+        },
+        {
+          "description": "cat nyaa mix neko kitty. nyan cat cat meoooww cat neko. nyaa nyan nyan meow nyan cat neko mix kitty meoooww.",
+          "id": "8a0bfe2e-725d-4cf7-8832-2b51513e5e54",
+          "image": "https://placekitten.com/240/135?image=8",
+          "itemNumber": 3,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 9,
+              "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 3",
+        },
+        {
+          "description": "neko kitty nyan cat meow mix kitty meow. meow kitty nyaa nyan nyan. meow nyan kitty nyan. meow meow nyaa nyaa nyan meoooww meow mix nyaa.",
+          "id": "8621f4ca-3988-401a-8c0e-2ec95d5d96cd",
+          "image": "https://placekitten.com/240/135?image=5",
+          "itemNumber": 4,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 40,
+              "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 4",
+        },
+        {
+          "description": "nyaa meoooww cat meow kitty meow nyaa meoooww meoooww. meow meow nyaa mix nyan nyaa meoooww meow. mix kitty mix meoooww cat nyan neko cat meow. nyan meow meow nyan meow cat nyan nyaa mix. mix meoooww meow kitty neko meoooww mix.",
+          "id": "47cc2395-22d7-490b-9e0c-7aa223339e8e",
+          "image": "https://placekitten.com/240/135?image=8",
+          "itemNumber": 5,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 19,
+              "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 5",
+        },
+        {
+          "description": "neko kitty mix kitty. meow kitty nyan meow meoooww mix meow. meoooww meow meow meoooww. meow nyan nyaa kitty kitty nyan meow meow nyaa neko. meoooww cat mix nyaa. nyan neko meow nyan meow meow meoooww mix nyaa.",
+          "id": "b121fb29-832b-4a29-a904-4105d4d33705",
+          "image": "https://placekitten.com/240/135?image=16",
+          "itemNumber": 6,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 15,
+              "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 6",
+        },
+        {
+          "description": "meoooww meoooww nyaa mix meoooww mix kitty mix. nyan cat neko neko meow neko meow meoooww. meow meow nyan meoooww neko kitty mix. mix meoooww meow meoooww mix cat. mix neko nyan meow cat nyan mix nyaa meoooww. meow kitty kitty nyaa.",
+          "id": "6976a36b-7675-4f65-9c1c-1e871e80be9d",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 7,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 7",
+        },
+        {
+          "description": "cat meoooww meow. cat nyan neko. nyaa cat cat meoooww neko neko cat nyaa nyaa nyaa.",
+          "id": "a196ae4f-bd08-4e3d-9773-0c288b0c0c18",
+          "image": "https://placekitten.com/240/135?image=16",
+          "itemNumber": 8,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 42,
+              "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 8",
+        },
+        {
+          "description": "nyan mix neko cat cat cat meoooww. nyaa nyan cat. cat meoooww kitty kitty kitty. nyaa nyan nyaa meoooww neko kitty neko cat. kitty nyaa neko meow meoooww nyan meow.",
+          "id": "5f40a241-d7a1-41f4-86cd-5e7fc0c63e1d",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 9,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 42,
+              "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 9",
+        },
+        {
+          "description": "meow mix nyaa. meow cat kitty kitty kitty nyaa. meow meoooww neko mix meoooww nyaa nyaa meoooww nyaa cat. meow nyaa neko.",
+          "id": "fc65c00e-3191-4bd7-9a31-d4bdb1915d6e",
+          "image": "https://placekitten.com/240/135?image=13",
+          "itemNumber": 10,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 28,
+              "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 10",
+        },
+        {
+          "description": "mix meoooww nyaa kitty. nyan cat kitty cat cat kitty neko meow kitty mix. nyan meoooww mix meoooww meoooww neko nyan cat.",
+          "id": "b896cf28-24fd-4485-8bf6-870df879f15c",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 11,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 29,
+              "url": "https://www.youtube.com/watch?v=GaL1vUm2zCk",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 11",
+        },
+        {
+          "description": "mix nyaa meow kitty neko mix cat meoooww nyaa. cat cat meow cat nyaa kitty cat. cat neko mix kitty nyaa meoooww kitty.",
+          "id": "d568ac36-fd7a-471c-86ea-cd6cd2e6745c",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 12,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 40,
+              "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 12",
+        },
+        {
+          "description": "neko nyan kitty kitty nyan neko neko meoooww meoooww. mix neko nyan meow nyaa cat kitty meow nyan neko. meoooww nyaa kitty mix mix meoooww kitty nyaa nyaa.",
+          "id": "105b90d4-44c3-4d38-b4e2-8a80f6afa239",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 13,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 19,
+              "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 13",
+        },
+        {
+          "description": "meow nyaa nyan meow. meow nyan cat. cat nyan neko mix neko neko nyan nyaa meow. kitty kitty neko nyan neko meoooww kitty mix mix kitty.",
+          "id": "28f92084-5cc0-4462-84cf-f4d72ba11f52",
+          "image": "https://placekitten.com/240/135?image=12",
+          "itemNumber": 14,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 15,
+              "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 14",
+        },
+        {
+          "description": "nyan neko nyaa cat meoooww nyan. meow mix cat cat cat neko kitty. nyaa mix neko nyaa cat meow meoooww kitty kitty neko. meoooww meow nyan cat meoooww meow nyan meoooww meoooww. mix nyaa kitty cat cat cat kitty neko meow cat.",
+          "id": "bfa1c178-729c-4514-a73f-c3a3a20ed31b",
+          "image": "https://placekitten.com/240/135?image=15",
+          "itemNumber": 15,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 6,
+              "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 15",
+        },
+        {
+          "description": "mix nyan meoooww meow kitty neko meow meoooww nyan. nyaa meow cat. meoooww nyaa kitty nyaa mix meoooww nyan nyan. cat meow nyan nyaa. nyan neko meow mix.",
+          "id": "8491a05b-bfa4-4f3c-bdf2-52e6603a7040",
+          "image": "https://placekitten.com/240/135?image=10",
+          "itemNumber": 16,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 9,
+              "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 16",
+        },
+        {
+          "description": "nyan nyaa nyaa neko meow. cat kitty nyan cat meow nyaa mix. meow nyaa nyan meoooww cat cat meow nyan neko. nyaa meoooww meow mix mix cat.",
+          "id": "dfcc32c9-965f-461b-821b-65a8c4321174",
+          "image": "https://placekitten.com/240/135?image=16",
+          "itemNumber": 17,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 28,
+              "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 17",
+        },
+        {
+          "description": "neko nyan cat. nyaa nyaa kitty nyan cat cat. mix cat cat cat kitty nyaa meoooww neko nyaa meoooww. kitty kitty nyan nyaa meow. nyan nyan kitty.",
+          "id": "a5a50666-64a3-4b79-a1d7-fd3c4318c426",
+          "image": "https://placekitten.com/240/135?image=4",
+          "itemNumber": 18,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 18",
+        },
+        {
+          "description": "meow cat nyaa kitty nyaa neko. meow mix neko kitty cat nyan meow cat mix meow. neko meoooww nyan kitty meoooww mix mix. kitty neko nyan meow neko meoooww nyaa. meoooww nyaa kitty nyan cat neko. meoooww kitty mix nyan nyaa meoooww nyaa.",
+          "id": "05575ee1-39a2-4f39-9e2d-30dcc25e3a86",
+          "image": "https://placekitten.com/240/135?image=13",
+          "itemNumber": 19,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 40,
+              "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 19",
+        },
+        {
+          "description": "neko neko meow meow meow kitty. neko kitty neko meoooww mix meow kitty cat. cat kitty nyan meoooww cat.",
+          "id": "d9a996ea-cbe1-4e70-af74-1075fe1e66e2",
+          "image": "https://placekitten.com/240/135?image=13",
+          "itemNumber": 20,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 15,
+              "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 20",
+        },
+        {
+          "description": "mix meow nyaa mix. neko nyan meoooww meoooww cat cat cat meow cat. meoooww mix meow mix cat nyaa neko mix kitty neko. neko neko meoooww nyan cat kitty neko meoooww cat nyan. meow mix nyaa.",
+          "id": "f199f681-8c06-4dec-b0bb-4dcd9238556c",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 21,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 21",
+        },
+        {
+          "description": "neko nyan mix meow. nyaa nyan meow kitty cat kitty. nyaa mix mix meow meow kitty nyan nyaa. mix nyaa cat neko. nyaa nyan neko nyaa cat. meoooww kitty meow nyaa nyan mix meow kitty cat.",
+          "id": "8cd89fd5-b059-4bfd-8098-085fd7b2e19d",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 22,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 22",
+        },
+        {
+          "description": "neko nyaa cat nyan meoooww cat meoooww nyaa meow nyan. meoooww cat nyaa nyan nyan meow. nyaa neko kitty nyan meow kitty. meoooww mix nyaa meow cat neko nyan nyan cat neko.",
+          "id": "3ba0cb86-73aa-48da-a9ce-8a6b4db5c9a3",
+          "image": "https://placekitten.com/240/135?image=12",
+          "itemNumber": 23,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 21,
+              "url": "https://www.youtube.com/watch?v=n_-kAq7gO1s",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 23",
+        },
+        {
+          "description": "kitty nyaa nyan nyaa cat mix kitty. kitty meow kitty kitty. nyaa kitty meoooww nyan nyan. meow nyan mix cat mix kitty meow meow meoooww. nyan neko meoooww nyan nyaa cat nyan nyan meow nyan.",
+          "id": "474d1145-20a8-4cd9-bc66-f661cbc1dc66",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 24,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 6,
+              "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 24",
+        },
+      ],
+      "originalAudioType": {
+        "id": 1,
+        "name": "Japanese",
+      },
+      "subtitles": [
+        {
+          "id": 1,
+          "name": "English",
+        },
+      ],
+      "title": "Rent-A-Neko",
+      "type": "series",
+    },
+  ],
+  "title": "Test Override",
+  "type": "hero",
+}
+`;
+
+exports[`createContentFeedFixture > should work without anything passed in 1`] = `
+{
+  "description": "Our biggest hit!",
+  "id": 1,
+  "items": [
+    {
+      "additionalContentAudioTypes": [
+        {
+          "id": 2,
+          "name": "English",
+        },
+      ],
+      "description": "Rent a cat for a day to adore in its cuteness",
+      "genres": [
+        "romance",
+        "comedy",
+        "harem",
+      ],
+      "id": 1,
+      "images": {
+        "asFeed": "https://placekitten.com/150/225?image=9",
+        "asPageHeader": "https://placekitten.com/1200/675?image=9",
+      },
+      "items": [
+        {
+          "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+          "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 1,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 1",
+        },
+        {
+          "description": "kitty meow kitty kitty. meoooww mix kitty meow mix meoooww nyan kitty nyaa meoooww. cat neko kitty mix nyan nyaa neko meoooww. nyan meow meow mix meow.",
+          "id": "4b3eaaa0-f84b-4113-8450-a8dc74f492d7",
+          "image": "https://placekitten.com/240/135?image=4",
+          "itemNumber": 2,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 42,
+              "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 2",
+        },
+        {
+          "description": "cat nyaa mix neko kitty. nyan cat cat meoooww cat neko. nyaa nyan nyan meow nyan cat neko mix kitty meoooww.",
+          "id": "8a0bfe2e-725d-4cf7-8832-2b51513e5e54",
+          "image": "https://placekitten.com/240/135?image=8",
+          "itemNumber": 3,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 9,
+              "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 3",
+        },
+        {
+          "description": "neko kitty nyan cat meow mix kitty meow. meow kitty nyaa nyan nyan. meow nyan kitty nyan. meow meow nyaa nyaa nyan meoooww meow mix nyaa.",
+          "id": "8621f4ca-3988-401a-8c0e-2ec95d5d96cd",
+          "image": "https://placekitten.com/240/135?image=5",
+          "itemNumber": 4,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 40,
+              "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 4",
+        },
+        {
+          "description": "nyaa meoooww cat meow kitty meow nyaa meoooww meoooww. meow meow nyaa mix nyan nyaa meoooww meow. mix kitty mix meoooww cat nyan neko cat meow. nyan meow meow nyan meow cat nyan nyaa mix. mix meoooww meow kitty neko meoooww mix.",
+          "id": "47cc2395-22d7-490b-9e0c-7aa223339e8e",
+          "image": "https://placekitten.com/240/135?image=8",
+          "itemNumber": 5,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 19,
+              "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 5",
+        },
+        {
+          "description": "neko kitty mix kitty. meow kitty nyan meow meoooww mix meow. meoooww meow meow meoooww. meow nyan nyaa kitty kitty nyan meow meow nyaa neko. meoooww cat mix nyaa. nyan neko meow nyan meow meow meoooww mix nyaa.",
+          "id": "b121fb29-832b-4a29-a904-4105d4d33705",
+          "image": "https://placekitten.com/240/135?image=16",
+          "itemNumber": 6,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 15,
+              "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 6",
+        },
+        {
+          "description": "meoooww meoooww nyaa mix meoooww mix kitty mix. nyan cat neko neko meow neko meow meoooww. meow meow nyan meoooww neko kitty mix. mix meoooww meow meoooww mix cat. mix neko nyan meow cat nyan mix nyaa meoooww. meow kitty kitty nyaa.",
+          "id": "6976a36b-7675-4f65-9c1c-1e871e80be9d",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 7,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 7",
+        },
+        {
+          "description": "cat meoooww meow. cat nyan neko. nyaa cat cat meoooww neko neko cat nyaa nyaa nyaa.",
+          "id": "a196ae4f-bd08-4e3d-9773-0c288b0c0c18",
+          "image": "https://placekitten.com/240/135?image=16",
+          "itemNumber": 8,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 42,
+              "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 8",
+        },
+        {
+          "description": "nyan mix neko cat cat cat meoooww. nyaa nyan cat. cat meoooww kitty kitty kitty. nyaa nyan nyaa meoooww neko kitty neko cat. kitty nyaa neko meow meoooww nyan meow.",
+          "id": "5f40a241-d7a1-41f4-86cd-5e7fc0c63e1d",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 9,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 42,
+              "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 9",
+        },
+        {
+          "description": "meow mix nyaa. meow cat kitty kitty kitty nyaa. meow meoooww neko mix meoooww nyaa nyaa meoooww nyaa cat. meow nyaa neko.",
+          "id": "fc65c00e-3191-4bd7-9a31-d4bdb1915d6e",
+          "image": "https://placekitten.com/240/135?image=13",
+          "itemNumber": 10,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 28,
+              "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 10",
+        },
+        {
+          "description": "mix meoooww nyaa kitty. nyan cat kitty cat cat kitty neko meow kitty mix. nyan meoooww mix meoooww meoooww neko nyan cat.",
+          "id": "b896cf28-24fd-4485-8bf6-870df879f15c",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 11,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 29,
+              "url": "https://www.youtube.com/watch?v=GaL1vUm2zCk",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 11",
+        },
+        {
+          "description": "mix nyaa meow kitty neko mix cat meoooww nyaa. cat cat meow cat nyaa kitty cat. cat neko mix kitty nyaa meoooww kitty.",
+          "id": "d568ac36-fd7a-471c-86ea-cd6cd2e6745c",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 12,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 40,
+              "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 12",
+        },
+        {
+          "description": "neko nyan kitty kitty nyan neko neko meoooww meoooww. mix neko nyan meow nyaa cat kitty meow nyan neko. meoooww nyaa kitty mix mix meoooww kitty nyaa nyaa.",
+          "id": "105b90d4-44c3-4d38-b4e2-8a80f6afa239",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 13,
+          "seasonNumber": 1,
+          "source": {
+            "metadata": {
+              "totalDuration": 19,
+              "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 13",
+        },
+        {
+          "description": "meow nyaa nyan meow. meow nyan cat. cat nyan neko mix neko neko nyan nyaa meow. kitty kitty neko nyan neko meoooww kitty mix mix kitty.",
+          "id": "28f92084-5cc0-4462-84cf-f4d72ba11f52",
+          "image": "https://placekitten.com/240/135?image=12",
+          "itemNumber": 14,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 15,
+              "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 14",
+        },
+        {
+          "description": "nyan neko nyaa cat meoooww nyan. meow mix cat cat cat neko kitty. nyaa mix neko nyaa cat meow meoooww kitty kitty neko. meoooww meow nyan cat meoooww meow nyan meoooww meoooww. mix nyaa kitty cat cat cat kitty neko meow cat.",
+          "id": "bfa1c178-729c-4514-a73f-c3a3a20ed31b",
+          "image": "https://placekitten.com/240/135?image=15",
+          "itemNumber": 15,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 6,
+              "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 15",
+        },
+        {
+          "description": "mix nyan meoooww meow kitty neko meow meoooww nyan. nyaa meow cat. meoooww nyaa kitty nyaa mix meoooww nyan nyan. cat meow nyan nyaa. nyan neko meow mix.",
+          "id": "8491a05b-bfa4-4f3c-bdf2-52e6603a7040",
+          "image": "https://placekitten.com/240/135?image=10",
+          "itemNumber": 16,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 9,
+              "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 16",
+        },
+        {
+          "description": "nyan nyaa nyaa neko meow. cat kitty nyan cat meow nyaa mix. meow nyaa nyan meoooww cat cat meow nyan neko. nyaa meoooww meow mix mix cat.",
+          "id": "dfcc32c9-965f-461b-821b-65a8c4321174",
+          "image": "https://placekitten.com/240/135?image=16",
+          "itemNumber": 17,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 28,
+              "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 17",
+        },
+        {
+          "description": "neko nyan cat. nyaa nyaa kitty nyan cat cat. mix cat cat cat kitty nyaa meoooww neko nyaa meoooww. kitty kitty nyan nyaa meow. nyan nyan kitty.",
+          "id": "a5a50666-64a3-4b79-a1d7-fd3c4318c426",
+          "image": "https://placekitten.com/240/135?image=4",
+          "itemNumber": 18,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 18",
+        },
+        {
+          "description": "meow cat nyaa kitty nyaa neko. meow mix neko kitty cat nyan meow cat mix meow. neko meoooww nyan kitty meoooww mix mix. kitty neko nyan meow neko meoooww nyaa. meoooww nyaa kitty nyan cat neko. meoooww kitty mix nyan nyaa meoooww nyaa.",
+          "id": "05575ee1-39a2-4f39-9e2d-30dcc25e3a86",
+          "image": "https://placekitten.com/240/135?image=13",
+          "itemNumber": 19,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 40,
+              "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 19",
+        },
+        {
+          "description": "neko neko meow meow meow kitty. neko kitty neko meoooww mix meow kitty cat. cat kitty nyan meoooww cat.",
+          "id": "d9a996ea-cbe1-4e70-af74-1075fe1e66e2",
+          "image": "https://placekitten.com/240/135?image=13",
+          "itemNumber": 20,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 15,
+              "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 20",
+        },
+        {
+          "description": "mix meow nyaa mix. neko nyan meoooww meoooww cat cat cat meow cat. meoooww mix meow mix cat nyaa neko mix kitty neko. neko neko meoooww nyan cat kitty neko meoooww cat nyan. meow mix nyaa.",
+          "id": "f199f681-8c06-4dec-b0bb-4dcd9238556c",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 21,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 21",
+        },
+        {
+          "description": "neko nyan mix meow. nyaa nyan meow kitty cat kitty. nyaa mix mix meow meow kitty nyan nyaa. mix nyaa cat neko. nyaa nyan neko nyaa cat. meoooww kitty meow nyaa nyan mix meow kitty cat.",
+          "id": "8cd89fd5-b059-4bfd-8098-085fd7b2e19d",
+          "image": "https://placekitten.com/240/135?image=6",
+          "itemNumber": 22,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 27,
+              "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 22",
+        },
+        {
+          "description": "neko nyaa cat nyan meoooww cat meoooww nyaa meow nyan. meoooww cat nyaa nyan nyan meow. nyaa neko kitty nyan meow kitty. meoooww mix nyaa meow cat neko nyan nyan cat neko.",
+          "id": "3ba0cb86-73aa-48da-a9ce-8a6b4db5c9a3",
+          "image": "https://placekitten.com/240/135?image=12",
+          "itemNumber": 23,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 21,
+              "url": "https://www.youtube.com/watch?v=n_-kAq7gO1s",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 23",
+        },
+        {
+          "description": "kitty nyaa nyan nyaa cat mix kitty. kitty meow kitty kitty. nyaa kitty meoooww nyan nyan. meow nyan mix cat mix kitty meow meow meoooww. nyan neko meoooww nyan nyaa cat nyan nyan meow nyan.",
+          "id": "474d1145-20a8-4cd9-bc66-f661cbc1dc66",
+          "image": "https://placekitten.com/240/135?image=7",
+          "itemNumber": 24,
+          "seasonNumber": 2,
+          "source": {
+            "metadata": {
+              "totalDuration": 6,
+              "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+            },
+            "source": "youtube",
+          },
+          "title": "Episode 24",
+        },
+      ],
+      "originalAudioType": {
+        "id": 1,
+        "name": "Japanese",
+      },
+      "subtitles": [
+        {
+          "id": 1,
+          "name": "English",
+        },
+      ],
+      "title": "Rent-A-Neko",
+      "type": "series",
+    },
+  ],
+  "title": "Hero",
+  "type": "hero",
+}
+`;
+
+exports[`createContentGroupFixture > should work with something passed in as an override 1`] = `
+{
+  "additionalContentAudioTypes": [
+    {
+      "id": 2,
+      "name": "English",
+    },
+  ],
+  "description": "Rent a cat for a day to adore in its cuteness",
+  "genres": [
+    "romance",
+    "comedy",
+    "harem",
+  ],
+  "id": 1,
+  "images": {
+    "asFeed": "https://placekitten.com/150/225?image=9",
+    "asPageHeader": "https://placekitten.com/1200/675?image=9",
+  },
+  "items": [
+    {
+      "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+      "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 1,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 1",
+    },
+    {
+      "description": "kitty meow kitty kitty. meoooww mix kitty meow mix meoooww nyan kitty nyaa meoooww. cat neko kitty mix nyan nyaa neko meoooww. nyan meow meow mix meow.",
+      "id": "4b3eaaa0-f84b-4113-8450-a8dc74f492d7",
+      "image": "https://placekitten.com/240/135?image=4",
+      "itemNumber": 2,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 42,
+          "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 2",
+    },
+    {
+      "description": "cat nyaa mix neko kitty. nyan cat cat meoooww cat neko. nyaa nyan nyan meow nyan cat neko mix kitty meoooww.",
+      "id": "8a0bfe2e-725d-4cf7-8832-2b51513e5e54",
+      "image": "https://placekitten.com/240/135?image=8",
+      "itemNumber": 3,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 9,
+          "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 3",
+    },
+    {
+      "description": "neko kitty nyan cat meow mix kitty meow. meow kitty nyaa nyan nyan. meow nyan kitty nyan. meow meow nyaa nyaa nyan meoooww meow mix nyaa.",
+      "id": "8621f4ca-3988-401a-8c0e-2ec95d5d96cd",
+      "image": "https://placekitten.com/240/135?image=5",
+      "itemNumber": 4,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 40,
+          "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 4",
+    },
+    {
+      "description": "nyaa meoooww cat meow kitty meow nyaa meoooww meoooww. meow meow nyaa mix nyan nyaa meoooww meow. mix kitty mix meoooww cat nyan neko cat meow. nyan meow meow nyan meow cat nyan nyaa mix. mix meoooww meow kitty neko meoooww mix.",
+      "id": "47cc2395-22d7-490b-9e0c-7aa223339e8e",
+      "image": "https://placekitten.com/240/135?image=8",
+      "itemNumber": 5,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 19,
+          "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 5",
+    },
+    {
+      "description": "neko kitty mix kitty. meow kitty nyan meow meoooww mix meow. meoooww meow meow meoooww. meow nyan nyaa kitty kitty nyan meow meow nyaa neko. meoooww cat mix nyaa. nyan neko meow nyan meow meow meoooww mix nyaa.",
+      "id": "b121fb29-832b-4a29-a904-4105d4d33705",
+      "image": "https://placekitten.com/240/135?image=16",
+      "itemNumber": 6,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 15,
+          "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 6",
+    },
+    {
+      "description": "meoooww meoooww nyaa mix meoooww mix kitty mix. nyan cat neko neko meow neko meow meoooww. meow meow nyan meoooww neko kitty mix. mix meoooww meow meoooww mix cat. mix neko nyan meow cat nyan mix nyaa meoooww. meow kitty kitty nyaa.",
+      "id": "6976a36b-7675-4f65-9c1c-1e871e80be9d",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 7,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 7",
+    },
+    {
+      "description": "cat meoooww meow. cat nyan neko. nyaa cat cat meoooww neko neko cat nyaa nyaa nyaa.",
+      "id": "a196ae4f-bd08-4e3d-9773-0c288b0c0c18",
+      "image": "https://placekitten.com/240/135?image=16",
+      "itemNumber": 8,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 42,
+          "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 8",
+    },
+    {
+      "description": "nyan mix neko cat cat cat meoooww. nyaa nyan cat. cat meoooww kitty kitty kitty. nyaa nyan nyaa meoooww neko kitty neko cat. kitty nyaa neko meow meoooww nyan meow.",
+      "id": "5f40a241-d7a1-41f4-86cd-5e7fc0c63e1d",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 9,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 42,
+          "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 9",
+    },
+    {
+      "description": "meow mix nyaa. meow cat kitty kitty kitty nyaa. meow meoooww neko mix meoooww nyaa nyaa meoooww nyaa cat. meow nyaa neko.",
+      "id": "fc65c00e-3191-4bd7-9a31-d4bdb1915d6e",
+      "image": "https://placekitten.com/240/135?image=13",
+      "itemNumber": 10,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 28,
+          "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 10",
+    },
+    {
+      "description": "mix meoooww nyaa kitty. nyan cat kitty cat cat kitty neko meow kitty mix. nyan meoooww mix meoooww meoooww neko nyan cat.",
+      "id": "b896cf28-24fd-4485-8bf6-870df879f15c",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 11,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 29,
+          "url": "https://www.youtube.com/watch?v=GaL1vUm2zCk",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 11",
+    },
+    {
+      "description": "mix nyaa meow kitty neko mix cat meoooww nyaa. cat cat meow cat nyaa kitty cat. cat neko mix kitty nyaa meoooww kitty.",
+      "id": "d568ac36-fd7a-471c-86ea-cd6cd2e6745c",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 12,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 40,
+          "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 12",
+    },
+    {
+      "description": "neko nyan kitty kitty nyan neko neko meoooww meoooww. mix neko nyan meow nyaa cat kitty meow nyan neko. meoooww nyaa kitty mix mix meoooww kitty nyaa nyaa.",
+      "id": "105b90d4-44c3-4d38-b4e2-8a80f6afa239",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 13,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 19,
+          "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 13",
+    },
+    {
+      "description": "meow nyaa nyan meow. meow nyan cat. cat nyan neko mix neko neko nyan nyaa meow. kitty kitty neko nyan neko meoooww kitty mix mix kitty.",
+      "id": "28f92084-5cc0-4462-84cf-f4d72ba11f52",
+      "image": "https://placekitten.com/240/135?image=12",
+      "itemNumber": 14,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 15,
+          "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 14",
+    },
+    {
+      "description": "nyan neko nyaa cat meoooww nyan. meow mix cat cat cat neko kitty. nyaa mix neko nyaa cat meow meoooww kitty kitty neko. meoooww meow nyan cat meoooww meow nyan meoooww meoooww. mix nyaa kitty cat cat cat kitty neko meow cat.",
+      "id": "bfa1c178-729c-4514-a73f-c3a3a20ed31b",
+      "image": "https://placekitten.com/240/135?image=15",
+      "itemNumber": 15,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 6,
+          "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 15",
+    },
+    {
+      "description": "mix nyan meoooww meow kitty neko meow meoooww nyan. nyaa meow cat. meoooww nyaa kitty nyaa mix meoooww nyan nyan. cat meow nyan nyaa. nyan neko meow mix.",
+      "id": "8491a05b-bfa4-4f3c-bdf2-52e6603a7040",
+      "image": "https://placekitten.com/240/135?image=10",
+      "itemNumber": 16,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 9,
+          "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 16",
+    },
+    {
+      "description": "nyan nyaa nyaa neko meow. cat kitty nyan cat meow nyaa mix. meow nyaa nyan meoooww cat cat meow nyan neko. nyaa meoooww meow mix mix cat.",
+      "id": "dfcc32c9-965f-461b-821b-65a8c4321174",
+      "image": "https://placekitten.com/240/135?image=16",
+      "itemNumber": 17,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 28,
+          "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 17",
+    },
+    {
+      "description": "neko nyan cat. nyaa nyaa kitty nyan cat cat. mix cat cat cat kitty nyaa meoooww neko nyaa meoooww. kitty kitty nyan nyaa meow. nyan nyan kitty.",
+      "id": "a5a50666-64a3-4b79-a1d7-fd3c4318c426",
+      "image": "https://placekitten.com/240/135?image=4",
+      "itemNumber": 18,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 18",
+    },
+    {
+      "description": "meow cat nyaa kitty nyaa neko. meow mix neko kitty cat nyan meow cat mix meow. neko meoooww nyan kitty meoooww mix mix. kitty neko nyan meow neko meoooww nyaa. meoooww nyaa kitty nyan cat neko. meoooww kitty mix nyan nyaa meoooww nyaa.",
+      "id": "05575ee1-39a2-4f39-9e2d-30dcc25e3a86",
+      "image": "https://placekitten.com/240/135?image=13",
+      "itemNumber": 19,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 40,
+          "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 19",
+    },
+    {
+      "description": "neko neko meow meow meow kitty. neko kitty neko meoooww mix meow kitty cat. cat kitty nyan meoooww cat.",
+      "id": "d9a996ea-cbe1-4e70-af74-1075fe1e66e2",
+      "image": "https://placekitten.com/240/135?image=13",
+      "itemNumber": 20,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 15,
+          "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 20",
+    },
+    {
+      "description": "mix meow nyaa mix. neko nyan meoooww meoooww cat cat cat meow cat. meoooww mix meow mix cat nyaa neko mix kitty neko. neko neko meoooww nyan cat kitty neko meoooww cat nyan. meow mix nyaa.",
+      "id": "f199f681-8c06-4dec-b0bb-4dcd9238556c",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 21,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 21",
+    },
+    {
+      "description": "neko nyan mix meow. nyaa nyan meow kitty cat kitty. nyaa mix mix meow meow kitty nyan nyaa. mix nyaa cat neko. nyaa nyan neko nyaa cat. meoooww kitty meow nyaa nyan mix meow kitty cat.",
+      "id": "8cd89fd5-b059-4bfd-8098-085fd7b2e19d",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 22,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 22",
+    },
+    {
+      "description": "neko nyaa cat nyan meoooww cat meoooww nyaa meow nyan. meoooww cat nyaa nyan nyan meow. nyaa neko kitty nyan meow kitty. meoooww mix nyaa meow cat neko nyan nyan cat neko.",
+      "id": "3ba0cb86-73aa-48da-a9ce-8a6b4db5c9a3",
+      "image": "https://placekitten.com/240/135?image=12",
+      "itemNumber": 23,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 21,
+          "url": "https://www.youtube.com/watch?v=n_-kAq7gO1s",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 23",
+    },
+    {
+      "description": "kitty nyaa nyan nyaa cat mix kitty. kitty meow kitty kitty. nyaa kitty meoooww nyan nyan. meow nyan mix cat mix kitty meow meow meoooww. nyan neko meoooww nyan nyaa cat nyan nyan meow nyan.",
+      "id": "474d1145-20a8-4cd9-bc66-f661cbc1dc66",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 24,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 6,
+          "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 24",
+    },
+  ],
+  "originalAudioType": {
+    "id": 1,
+    "name": "Japanese",
+  },
+  "subtitles": [
+    {
+      "id": 1,
+      "name": "English",
+    },
+  ],
+  "title": "Test Override",
+  "type": "series",
+}
+`;
+
+exports[`createContentGroupFixture > should work without anything passed in 1`] = `
+{
+  "additionalContentAudioTypes": [
+    {
+      "id": 2,
+      "name": "English",
+    },
+  ],
+  "description": "Rent a cat for a day to adore in its cuteness",
+  "genres": [
+    "romance",
+    "comedy",
+    "harem",
+  ],
+  "id": 1,
+  "images": {
+    "asFeed": "https://placekitten.com/150/225?image=9",
+    "asPageHeader": "https://placekitten.com/1200/675?image=9",
+  },
+  "items": [
+    {
+      "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+      "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 1,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 1",
+    },
+    {
+      "description": "kitty meow kitty kitty. meoooww mix kitty meow mix meoooww nyan kitty nyaa meoooww. cat neko kitty mix nyan nyaa neko meoooww. nyan meow meow mix meow.",
+      "id": "4b3eaaa0-f84b-4113-8450-a8dc74f492d7",
+      "image": "https://placekitten.com/240/135?image=4",
+      "itemNumber": 2,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 42,
+          "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 2",
+    },
+    {
+      "description": "cat nyaa mix neko kitty. nyan cat cat meoooww cat neko. nyaa nyan nyan meow nyan cat neko mix kitty meoooww.",
+      "id": "8a0bfe2e-725d-4cf7-8832-2b51513e5e54",
+      "image": "https://placekitten.com/240/135?image=8",
+      "itemNumber": 3,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 9,
+          "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 3",
+    },
+    {
+      "description": "neko kitty nyan cat meow mix kitty meow. meow kitty nyaa nyan nyan. meow nyan kitty nyan. meow meow nyaa nyaa nyan meoooww meow mix nyaa.",
+      "id": "8621f4ca-3988-401a-8c0e-2ec95d5d96cd",
+      "image": "https://placekitten.com/240/135?image=5",
+      "itemNumber": 4,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 40,
+          "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 4",
+    },
+    {
+      "description": "nyaa meoooww cat meow kitty meow nyaa meoooww meoooww. meow meow nyaa mix nyan nyaa meoooww meow. mix kitty mix meoooww cat nyan neko cat meow. nyan meow meow nyan meow cat nyan nyaa mix. mix meoooww meow kitty neko meoooww mix.",
+      "id": "47cc2395-22d7-490b-9e0c-7aa223339e8e",
+      "image": "https://placekitten.com/240/135?image=8",
+      "itemNumber": 5,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 19,
+          "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 5",
+    },
+    {
+      "description": "neko kitty mix kitty. meow kitty nyan meow meoooww mix meow. meoooww meow meow meoooww. meow nyan nyaa kitty kitty nyan meow meow nyaa neko. meoooww cat mix nyaa. nyan neko meow nyan meow meow meoooww mix nyaa.",
+      "id": "b121fb29-832b-4a29-a904-4105d4d33705",
+      "image": "https://placekitten.com/240/135?image=16",
+      "itemNumber": 6,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 15,
+          "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 6",
+    },
+    {
+      "description": "meoooww meoooww nyaa mix meoooww mix kitty mix. nyan cat neko neko meow neko meow meoooww. meow meow nyan meoooww neko kitty mix. mix meoooww meow meoooww mix cat. mix neko nyan meow cat nyan mix nyaa meoooww. meow kitty kitty nyaa.",
+      "id": "6976a36b-7675-4f65-9c1c-1e871e80be9d",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 7,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 7",
+    },
+    {
+      "description": "cat meoooww meow. cat nyan neko. nyaa cat cat meoooww neko neko cat nyaa nyaa nyaa.",
+      "id": "a196ae4f-bd08-4e3d-9773-0c288b0c0c18",
+      "image": "https://placekitten.com/240/135?image=16",
+      "itemNumber": 8,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 42,
+          "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 8",
+    },
+    {
+      "description": "nyan mix neko cat cat cat meoooww. nyaa nyan cat. cat meoooww kitty kitty kitty. nyaa nyan nyaa meoooww neko kitty neko cat. kitty nyaa neko meow meoooww nyan meow.",
+      "id": "5f40a241-d7a1-41f4-86cd-5e7fc0c63e1d",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 9,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 42,
+          "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 9",
+    },
+    {
+      "description": "meow mix nyaa. meow cat kitty kitty kitty nyaa. meow meoooww neko mix meoooww nyaa nyaa meoooww nyaa cat. meow nyaa neko.",
+      "id": "fc65c00e-3191-4bd7-9a31-d4bdb1915d6e",
+      "image": "https://placekitten.com/240/135?image=13",
+      "itemNumber": 10,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 28,
+          "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 10",
+    },
+    {
+      "description": "mix meoooww nyaa kitty. nyan cat kitty cat cat kitty neko meow kitty mix. nyan meoooww mix meoooww meoooww neko nyan cat.",
+      "id": "b896cf28-24fd-4485-8bf6-870df879f15c",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 11,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 29,
+          "url": "https://www.youtube.com/watch?v=GaL1vUm2zCk",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 11",
+    },
+    {
+      "description": "mix nyaa meow kitty neko mix cat meoooww nyaa. cat cat meow cat nyaa kitty cat. cat neko mix kitty nyaa meoooww kitty.",
+      "id": "d568ac36-fd7a-471c-86ea-cd6cd2e6745c",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 12,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 40,
+          "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 12",
+    },
+    {
+      "description": "neko nyan kitty kitty nyan neko neko meoooww meoooww. mix neko nyan meow nyaa cat kitty meow nyan neko. meoooww nyaa kitty mix mix meoooww kitty nyaa nyaa.",
+      "id": "105b90d4-44c3-4d38-b4e2-8a80f6afa239",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 13,
+      "seasonNumber": 1,
+      "source": {
+        "metadata": {
+          "totalDuration": 19,
+          "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 13",
+    },
+    {
+      "description": "meow nyaa nyan meow. meow nyan cat. cat nyan neko mix neko neko nyan nyaa meow. kitty kitty neko nyan neko meoooww kitty mix mix kitty.",
+      "id": "28f92084-5cc0-4462-84cf-f4d72ba11f52",
+      "image": "https://placekitten.com/240/135?image=12",
+      "itemNumber": 14,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 15,
+          "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 14",
+    },
+    {
+      "description": "nyan neko nyaa cat meoooww nyan. meow mix cat cat cat neko kitty. nyaa mix neko nyaa cat meow meoooww kitty kitty neko. meoooww meow nyan cat meoooww meow nyan meoooww meoooww. mix nyaa kitty cat cat cat kitty neko meow cat.",
+      "id": "bfa1c178-729c-4514-a73f-c3a3a20ed31b",
+      "image": "https://placekitten.com/240/135?image=15",
+      "itemNumber": 15,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 6,
+          "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 15",
+    },
+    {
+      "description": "mix nyan meoooww meow kitty neko meow meoooww nyan. nyaa meow cat. meoooww nyaa kitty nyaa mix meoooww nyan nyan. cat meow nyan nyaa. nyan neko meow mix.",
+      "id": "8491a05b-bfa4-4f3c-bdf2-52e6603a7040",
+      "image": "https://placekitten.com/240/135?image=10",
+      "itemNumber": 16,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 9,
+          "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 16",
+    },
+    {
+      "description": "nyan nyaa nyaa neko meow. cat kitty nyan cat meow nyaa mix. meow nyaa nyan meoooww cat cat meow nyan neko. nyaa meoooww meow mix mix cat.",
+      "id": "dfcc32c9-965f-461b-821b-65a8c4321174",
+      "image": "https://placekitten.com/240/135?image=16",
+      "itemNumber": 17,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 28,
+          "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 17",
+    },
+    {
+      "description": "neko nyan cat. nyaa nyaa kitty nyan cat cat. mix cat cat cat kitty nyaa meoooww neko nyaa meoooww. kitty kitty nyan nyaa meow. nyan nyan kitty.",
+      "id": "a5a50666-64a3-4b79-a1d7-fd3c4318c426",
+      "image": "https://placekitten.com/240/135?image=4",
+      "itemNumber": 18,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 18",
+    },
+    {
+      "description": "meow cat nyaa kitty nyaa neko. meow mix neko kitty cat nyan meow cat mix meow. neko meoooww nyan kitty meoooww mix mix. kitty neko nyan meow neko meoooww nyaa. meoooww nyaa kitty nyan cat neko. meoooww kitty mix nyan nyaa meoooww nyaa.",
+      "id": "05575ee1-39a2-4f39-9e2d-30dcc25e3a86",
+      "image": "https://placekitten.com/240/135?image=13",
+      "itemNumber": 19,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 40,
+          "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 19",
+    },
+    {
+      "description": "neko neko meow meow meow kitty. neko kitty neko meoooww mix meow kitty cat. cat kitty nyan meoooww cat.",
+      "id": "d9a996ea-cbe1-4e70-af74-1075fe1e66e2",
+      "image": "https://placekitten.com/240/135?image=13",
+      "itemNumber": 20,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 15,
+          "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 20",
+    },
+    {
+      "description": "mix meow nyaa mix. neko nyan meoooww meoooww cat cat cat meow cat. meoooww mix meow mix cat nyaa neko mix kitty neko. neko neko meoooww nyan cat kitty neko meoooww cat nyan. meow mix nyaa.",
+      "id": "f199f681-8c06-4dec-b0bb-4dcd9238556c",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 21,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 21",
+    },
+    {
+      "description": "neko nyan mix meow. nyaa nyan meow kitty cat kitty. nyaa mix mix meow meow kitty nyan nyaa. mix nyaa cat neko. nyaa nyan neko nyaa cat. meoooww kitty meow nyaa nyan mix meow kitty cat.",
+      "id": "8cd89fd5-b059-4bfd-8098-085fd7b2e19d",
+      "image": "https://placekitten.com/240/135?image=6",
+      "itemNumber": 22,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 27,
+          "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 22",
+    },
+    {
+      "description": "neko nyaa cat nyan meoooww cat meoooww nyaa meow nyan. meoooww cat nyaa nyan nyan meow. nyaa neko kitty nyan meow kitty. meoooww mix nyaa meow cat neko nyan nyan cat neko.",
+      "id": "3ba0cb86-73aa-48da-a9ce-8a6b4db5c9a3",
+      "image": "https://placekitten.com/240/135?image=12",
+      "itemNumber": 23,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 21,
+          "url": "https://www.youtube.com/watch?v=n_-kAq7gO1s",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 23",
+    },
+    {
+      "description": "kitty nyaa nyan nyaa cat mix kitty. kitty meow kitty kitty. nyaa kitty meoooww nyan nyan. meow nyan mix cat mix kitty meow meow meoooww. nyan neko meoooww nyan nyaa cat nyan nyan meow nyan.",
+      "id": "474d1145-20a8-4cd9-bc66-f661cbc1dc66",
+      "image": "https://placekitten.com/240/135?image=7",
+      "itemNumber": 24,
+      "seasonNumber": 2,
+      "source": {
+        "metadata": {
+          "totalDuration": 6,
+          "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+        },
+        "source": "youtube",
+      },
+      "title": "Episode 24",
+    },
+  ],
+  "originalAudioType": {
+    "id": 1,
+    "name": "Japanese",
+  },
+  "subtitles": [
+    {
+      "id": 1,
+      "name": "English",
+    },
+  ],
+  "title": "Rent-A-Neko",
+  "type": "series",
+}
+`;
+
+exports[`createContentItemFixture > should work with something passed in as an override 1`] = `
+{
+  "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+  "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+  "image": "https://placekitten.com/240/135?image=7",
+  "itemNumber": 1,
+  "seasonNumber": 1,
+  "source": {
+    "metadata": {
+      "totalDuration": 27,
+      "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+    },
+    "source": "youtube",
+  },
+  "title": "Test Override",
+}
+`;
+
+exports[`createContentItemFixture > should work without anything passed in 1`] = `
+{
+  "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+  "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+  "image": "https://placekitten.com/240/135?image=7",
+  "itemNumber": 1,
+  "seasonNumber": 1,
+  "source": {
+    "metadata": {
+      "totalDuration": 27,
+      "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+    },
+    "source": "youtube",
+  },
+  "title": "Episode 1",
+}
+`;
+
+exports[`createNextItemFixture > should work with something passed in as an override 1`] = `
+{
+  "contentGroup": {
+    "additionalContentAudioTypes": [
+      {
+        "id": 2,
+        "name": "English",
+      },
+    ],
+    "description": "Rent a cat for a day to adore in its cuteness",
+    "genres": [
+      "romance",
+      "comedy",
+      "harem",
+    ],
+    "id": 1,
+    "images": {
+      "asFeed": "https://placekitten.com/150/225?image=9",
+      "asPageHeader": "https://placekitten.com/1200/675?image=9",
+    },
+    "items": [
+      {
+        "contentGroup": {
+          "additionalContentAudioTypes": [
+            {
+              "id": 2,
+              "name": "English",
+            },
+          ],
+          "description": "Rent a cat for a day to adore in its cuteness",
+          "genres": [
+            "romance",
+            "comedy",
+            "harem",
+          ],
+          "id": 1,
+          "images": {
+            "asFeed": "https://placekitten.com/150/225?image=9",
+            "asPageHeader": "https://placekitten.com/1200/675?image=9",
+          },
+          "items": [
+            {
+              "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+              "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+              "image": "https://placekitten.com/240/135?image=7",
+              "itemNumber": 1,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 27,
+                  "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+                },
+                "source": "youtube",
+              },
+              "title": "Test Override",
+            },
+            {
+              "description": "kitty meow kitty kitty. meoooww mix kitty meow mix meoooww nyan kitty nyaa meoooww. cat neko kitty mix nyan nyaa neko meoooww. nyan meow meow mix meow.",
+              "id": "4b3eaaa0-f84b-4113-8450-a8dc74f492d7",
+              "image": "https://placekitten.com/240/135?image=4",
+              "itemNumber": 2,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 42,
+                  "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 2",
+            },
+            {
+              "description": "cat nyaa mix neko kitty. nyan cat cat meoooww cat neko. nyaa nyan nyan meow nyan cat neko mix kitty meoooww.",
+              "id": "8a0bfe2e-725d-4cf7-8832-2b51513e5e54",
+              "image": "https://placekitten.com/240/135?image=8",
+              "itemNumber": 3,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 9,
+                  "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 3",
+            },
+            {
+              "description": "neko kitty nyan cat meow mix kitty meow. meow kitty nyaa nyan nyan. meow nyan kitty nyan. meow meow nyaa nyaa nyan meoooww meow mix nyaa.",
+              "id": "8621f4ca-3988-401a-8c0e-2ec95d5d96cd",
+              "image": "https://placekitten.com/240/135?image=5",
+              "itemNumber": 4,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 40,
+                  "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 4",
+            },
+            {
+              "description": "nyaa meoooww cat meow kitty meow nyaa meoooww meoooww. meow meow nyaa mix nyan nyaa meoooww meow. mix kitty mix meoooww cat nyan neko cat meow. nyan meow meow nyan meow cat nyan nyaa mix. mix meoooww meow kitty neko meoooww mix.",
+              "id": "47cc2395-22d7-490b-9e0c-7aa223339e8e",
+              "image": "https://placekitten.com/240/135?image=8",
+              "itemNumber": 5,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 19,
+                  "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 5",
+            },
+            {
+              "description": "neko kitty mix kitty. meow kitty nyan meow meoooww mix meow. meoooww meow meow meoooww. meow nyan nyaa kitty kitty nyan meow meow nyaa neko. meoooww cat mix nyaa. nyan neko meow nyan meow meow meoooww mix nyaa.",
+              "id": "b121fb29-832b-4a29-a904-4105d4d33705",
+              "image": "https://placekitten.com/240/135?image=16",
+              "itemNumber": 6,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 15,
+                  "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 6",
+            },
+            {
+              "description": "meoooww meoooww nyaa mix meoooww mix kitty mix. nyan cat neko neko meow neko meow meoooww. meow meow nyan meoooww neko kitty mix. mix meoooww meow meoooww mix cat. mix neko nyan meow cat nyan mix nyaa meoooww. meow kitty kitty nyaa.",
+              "id": "6976a36b-7675-4f65-9c1c-1e871e80be9d",
+              "image": "https://placekitten.com/240/135?image=7",
+              "itemNumber": 7,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 27,
+                  "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 7",
+            },
+            {
+              "description": "cat meoooww meow. cat nyan neko. nyaa cat cat meoooww neko neko cat nyaa nyaa nyaa.",
+              "id": "a196ae4f-bd08-4e3d-9773-0c288b0c0c18",
+              "image": "https://placekitten.com/240/135?image=16",
+              "itemNumber": 8,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 42,
+                  "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 8",
+            },
+            {
+              "description": "nyan mix neko cat cat cat meoooww. nyaa nyan cat. cat meoooww kitty kitty kitty. nyaa nyan nyaa meoooww neko kitty neko cat. kitty nyaa neko meow meoooww nyan meow.",
+              "id": "5f40a241-d7a1-41f4-86cd-5e7fc0c63e1d",
+              "image": "https://placekitten.com/240/135?image=6",
+              "itemNumber": 9,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 42,
+                  "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 9",
+            },
+            {
+              "description": "meow mix nyaa. meow cat kitty kitty kitty nyaa. meow meoooww neko mix meoooww nyaa nyaa meoooww nyaa cat. meow nyaa neko.",
+              "id": "fc65c00e-3191-4bd7-9a31-d4bdb1915d6e",
+              "image": "https://placekitten.com/240/135?image=13",
+              "itemNumber": 10,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 28,
+                  "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 10",
+            },
+            {
+              "description": "mix meoooww nyaa kitty. nyan cat kitty cat cat kitty neko meow kitty mix. nyan meoooww mix meoooww meoooww neko nyan cat.",
+              "id": "b896cf28-24fd-4485-8bf6-870df879f15c",
+              "image": "https://placekitten.com/240/135?image=6",
+              "itemNumber": 11,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 29,
+                  "url": "https://www.youtube.com/watch?v=GaL1vUm2zCk",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 11",
+            },
+            {
+              "description": "mix nyaa meow kitty neko mix cat meoooww nyaa. cat cat meow cat nyaa kitty cat. cat neko mix kitty nyaa meoooww kitty.",
+              "id": "d568ac36-fd7a-471c-86ea-cd6cd2e6745c",
+              "image": "https://placekitten.com/240/135?image=7",
+              "itemNumber": 12,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 40,
+                  "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 12",
+            },
+            {
+              "description": "neko nyan kitty kitty nyan neko neko meoooww meoooww. mix neko nyan meow nyaa cat kitty meow nyan neko. meoooww nyaa kitty mix mix meoooww kitty nyaa nyaa.",
+              "id": "105b90d4-44c3-4d38-b4e2-8a80f6afa239",
+              "image": "https://placekitten.com/240/135?image=6",
+              "itemNumber": 13,
+              "seasonNumber": 1,
+              "source": {
+                "metadata": {
+                  "totalDuration": 19,
+                  "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 13",
+            },
+            {
+              "description": "meow nyaa nyan meow. meow nyan cat. cat nyan neko mix neko neko nyan nyaa meow. kitty kitty neko nyan neko meoooww kitty mix mix kitty.",
+              "id": "28f92084-5cc0-4462-84cf-f4d72ba11f52",
+              "image": "https://placekitten.com/240/135?image=12",
+              "itemNumber": 14,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 15,
+                  "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 14",
+            },
+            {
+              "description": "nyan neko nyaa cat meoooww nyan. meow mix cat cat cat neko kitty. nyaa mix neko nyaa cat meow meoooww kitty kitty neko. meoooww meow nyan cat meoooww meow nyan meoooww meoooww. mix nyaa kitty cat cat cat kitty neko meow cat.",
+              "id": "bfa1c178-729c-4514-a73f-c3a3a20ed31b",
+              "image": "https://placekitten.com/240/135?image=15",
+              "itemNumber": 15,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 6,
+                  "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 15",
+            },
+            {
+              "description": "mix nyan meoooww meow kitty neko meow meoooww nyan. nyaa meow cat. meoooww nyaa kitty nyaa mix meoooww nyan nyan. cat meow nyan nyaa. nyan neko meow mix.",
+              "id": "8491a05b-bfa4-4f3c-bdf2-52e6603a7040",
+              "image": "https://placekitten.com/240/135?image=10",
+              "itemNumber": 16,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 9,
+                  "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 16",
+            },
+            {
+              "description": "nyan nyaa nyaa neko meow. cat kitty nyan cat meow nyaa mix. meow nyaa nyan meoooww cat cat meow nyan neko. nyaa meoooww meow mix mix cat.",
+              "id": "dfcc32c9-965f-461b-821b-65a8c4321174",
+              "image": "https://placekitten.com/240/135?image=16",
+              "itemNumber": 17,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 28,
+                  "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 17",
+            },
+            {
+              "description": "neko nyan cat. nyaa nyaa kitty nyan cat cat. mix cat cat cat kitty nyaa meoooww neko nyaa meoooww. kitty kitty nyan nyaa meow. nyan nyan kitty.",
+              "id": "a5a50666-64a3-4b79-a1d7-fd3c4318c426",
+              "image": "https://placekitten.com/240/135?image=4",
+              "itemNumber": 18,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 27,
+                  "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 18",
+            },
+            {
+              "description": "meow cat nyaa kitty nyaa neko. meow mix neko kitty cat nyan meow cat mix meow. neko meoooww nyan kitty meoooww mix mix. kitty neko nyan meow neko meoooww nyaa. meoooww nyaa kitty nyan cat neko. meoooww kitty mix nyan nyaa meoooww nyaa.",
+              "id": "05575ee1-39a2-4f39-9e2d-30dcc25e3a86",
+              "image": "https://placekitten.com/240/135?image=13",
+              "itemNumber": 19,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 40,
+                  "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 19",
+            },
+            {
+              "description": "neko neko meow meow meow kitty. neko kitty neko meoooww mix meow kitty cat. cat kitty nyan meoooww cat.",
+              "id": "d9a996ea-cbe1-4e70-af74-1075fe1e66e2",
+              "image": "https://placekitten.com/240/135?image=13",
+              "itemNumber": 20,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 15,
+                  "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 20",
+            },
+            {
+              "description": "mix meow nyaa mix. neko nyan meoooww meoooww cat cat cat meow cat. meoooww mix meow mix cat nyaa neko mix kitty neko. neko neko meoooww nyan cat kitty neko meoooww cat nyan. meow mix nyaa.",
+              "id": "f199f681-8c06-4dec-b0bb-4dcd9238556c",
+              "image": "https://placekitten.com/240/135?image=6",
+              "itemNumber": 21,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 27,
+                  "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 21",
+            },
+            {
+              "description": "neko nyan mix meow. nyaa nyan meow kitty cat kitty. nyaa mix mix meow meow kitty nyan nyaa. mix nyaa cat neko. nyaa nyan neko nyaa cat. meoooww kitty meow nyaa nyan mix meow kitty cat.",
+              "id": "8cd89fd5-b059-4bfd-8098-085fd7b2e19d",
+              "image": "https://placekitten.com/240/135?image=6",
+              "itemNumber": 22,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 27,
+                  "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 22",
+            },
+            {
+              "description": "neko nyaa cat nyan meoooww cat meoooww nyaa meow nyan. meoooww cat nyaa nyan nyan meow. nyaa neko kitty nyan meow kitty. meoooww mix nyaa meow cat neko nyan nyan cat neko.",
+              "id": "3ba0cb86-73aa-48da-a9ce-8a6b4db5c9a3",
+              "image": "https://placekitten.com/240/135?image=12",
+              "itemNumber": 23,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 21,
+                  "url": "https://www.youtube.com/watch?v=n_-kAq7gO1s",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 23",
+            },
+            {
+              "description": "kitty nyaa nyan nyaa cat mix kitty. kitty meow kitty kitty. nyaa kitty meoooww nyan nyan. meow nyan mix cat mix kitty meow meow meoooww. nyan neko meoooww nyan nyaa cat nyan nyan meow nyan.",
+              "id": "474d1145-20a8-4cd9-bc66-f661cbc1dc66",
+              "image": "https://placekitten.com/240/135?image=7",
+              "itemNumber": 24,
+              "seasonNumber": 2,
+              "source": {
+                "metadata": {
+                  "totalDuration": 6,
+                  "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+                },
+                "source": "youtube",
+              },
+              "title": "Episode 24",
+            },
+          ],
+          "originalAudioType": {
+            "id": 1,
+            "name": "Japanese",
+          },
+          "subtitles": [
+            {
+              "id": 1,
+              "name": "English",
+            },
+          ],
+          "title": "Test Override",
+          "type": "series",
+        },
+        "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+        "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 1,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Test Override",
+      },
+      {
+        "description": "kitty meow kitty kitty. meoooww mix kitty meow mix meoooww nyan kitty nyaa meoooww. cat neko kitty mix nyan nyaa neko meoooww. nyan meow meow mix meow.",
+        "id": "4b3eaaa0-f84b-4113-8450-a8dc74f492d7",
+        "image": "https://placekitten.com/240/135?image=4",
+        "itemNumber": 2,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 42,
+            "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 2",
+      },
+      {
+        "description": "cat nyaa mix neko kitty. nyan cat cat meoooww cat neko. nyaa nyan nyan meow nyan cat neko mix kitty meoooww.",
+        "id": "8a0bfe2e-725d-4cf7-8832-2b51513e5e54",
+        "image": "https://placekitten.com/240/135?image=8",
+        "itemNumber": 3,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 9,
+            "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 3",
+      },
+      {
+        "description": "neko kitty nyan cat meow mix kitty meow. meow kitty nyaa nyan nyan. meow nyan kitty nyan. meow meow nyaa nyaa nyan meoooww meow mix nyaa.",
+        "id": "8621f4ca-3988-401a-8c0e-2ec95d5d96cd",
+        "image": "https://placekitten.com/240/135?image=5",
+        "itemNumber": 4,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 40,
+            "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 4",
+      },
+      {
+        "description": "nyaa meoooww cat meow kitty meow nyaa meoooww meoooww. meow meow nyaa mix nyan nyaa meoooww meow. mix kitty mix meoooww cat nyan neko cat meow. nyan meow meow nyan meow cat nyan nyaa mix. mix meoooww meow kitty neko meoooww mix.",
+        "id": "47cc2395-22d7-490b-9e0c-7aa223339e8e",
+        "image": "https://placekitten.com/240/135?image=8",
+        "itemNumber": 5,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 19,
+            "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 5",
+      },
+      {
+        "description": "neko kitty mix kitty. meow kitty nyan meow meoooww mix meow. meoooww meow meow meoooww. meow nyan nyaa kitty kitty nyan meow meow nyaa neko. meoooww cat mix nyaa. nyan neko meow nyan meow meow meoooww mix nyaa.",
+        "id": "b121fb29-832b-4a29-a904-4105d4d33705",
+        "image": "https://placekitten.com/240/135?image=16",
+        "itemNumber": 6,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 15,
+            "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 6",
+      },
+      {
+        "description": "meoooww meoooww nyaa mix meoooww mix kitty mix. nyan cat neko neko meow neko meow meoooww. meow meow nyan meoooww neko kitty mix. mix meoooww meow meoooww mix cat. mix neko nyan meow cat nyan mix nyaa meoooww. meow kitty kitty nyaa.",
+        "id": "6976a36b-7675-4f65-9c1c-1e871e80be9d",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 7,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 7",
+      },
+      {
+        "description": "cat meoooww meow. cat nyan neko. nyaa cat cat meoooww neko neko cat nyaa nyaa nyaa.",
+        "id": "a196ae4f-bd08-4e3d-9773-0c288b0c0c18",
+        "image": "https://placekitten.com/240/135?image=16",
+        "itemNumber": 8,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 42,
+            "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 8",
+      },
+      {
+        "description": "nyan mix neko cat cat cat meoooww. nyaa nyan cat. cat meoooww kitty kitty kitty. nyaa nyan nyaa meoooww neko kitty neko cat. kitty nyaa neko meow meoooww nyan meow.",
+        "id": "5f40a241-d7a1-41f4-86cd-5e7fc0c63e1d",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 9,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 42,
+            "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 9",
+      },
+      {
+        "description": "meow mix nyaa. meow cat kitty kitty kitty nyaa. meow meoooww neko mix meoooww nyaa nyaa meoooww nyaa cat. meow nyaa neko.",
+        "id": "fc65c00e-3191-4bd7-9a31-d4bdb1915d6e",
+        "image": "https://placekitten.com/240/135?image=13",
+        "itemNumber": 10,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 28,
+            "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 10",
+      },
+      {
+        "description": "mix meoooww nyaa kitty. nyan cat kitty cat cat kitty neko meow kitty mix. nyan meoooww mix meoooww meoooww neko nyan cat.",
+        "id": "b896cf28-24fd-4485-8bf6-870df879f15c",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 11,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 29,
+            "url": "https://www.youtube.com/watch?v=GaL1vUm2zCk",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 11",
+      },
+      {
+        "description": "mix nyaa meow kitty neko mix cat meoooww nyaa. cat cat meow cat nyaa kitty cat. cat neko mix kitty nyaa meoooww kitty.",
+        "id": "d568ac36-fd7a-471c-86ea-cd6cd2e6745c",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 12,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 40,
+            "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 12",
+      },
+      {
+        "description": "neko nyan kitty kitty nyan neko neko meoooww meoooww. mix neko nyan meow nyaa cat kitty meow nyan neko. meoooww nyaa kitty mix mix meoooww kitty nyaa nyaa.",
+        "id": "105b90d4-44c3-4d38-b4e2-8a80f6afa239",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 13,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 19,
+            "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 13",
+      },
+      {
+        "description": "meow nyaa nyan meow. meow nyan cat. cat nyan neko mix neko neko nyan nyaa meow. kitty kitty neko nyan neko meoooww kitty mix mix kitty.",
+        "id": "28f92084-5cc0-4462-84cf-f4d72ba11f52",
+        "image": "https://placekitten.com/240/135?image=12",
+        "itemNumber": 14,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 15,
+            "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 14",
+      },
+      {
+        "description": "nyan neko nyaa cat meoooww nyan. meow mix cat cat cat neko kitty. nyaa mix neko nyaa cat meow meoooww kitty kitty neko. meoooww meow nyan cat meoooww meow nyan meoooww meoooww. mix nyaa kitty cat cat cat kitty neko meow cat.",
+        "id": "bfa1c178-729c-4514-a73f-c3a3a20ed31b",
+        "image": "https://placekitten.com/240/135?image=15",
+        "itemNumber": 15,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 6,
+            "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 15",
+      },
+      {
+        "description": "mix nyan meoooww meow kitty neko meow meoooww nyan. nyaa meow cat. meoooww nyaa kitty nyaa mix meoooww nyan nyan. cat meow nyan nyaa. nyan neko meow mix.",
+        "id": "8491a05b-bfa4-4f3c-bdf2-52e6603a7040",
+        "image": "https://placekitten.com/240/135?image=10",
+        "itemNumber": 16,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 9,
+            "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 16",
+      },
+      {
+        "description": "nyan nyaa nyaa neko meow. cat kitty nyan cat meow nyaa mix. meow nyaa nyan meoooww cat cat meow nyan neko. nyaa meoooww meow mix mix cat.",
+        "id": "dfcc32c9-965f-461b-821b-65a8c4321174",
+        "image": "https://placekitten.com/240/135?image=16",
+        "itemNumber": 17,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 28,
+            "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 17",
+      },
+      {
+        "description": "neko nyan cat. nyaa nyaa kitty nyan cat cat. mix cat cat cat kitty nyaa meoooww neko nyaa meoooww. kitty kitty nyan nyaa meow. nyan nyan kitty.",
+        "id": "a5a50666-64a3-4b79-a1d7-fd3c4318c426",
+        "image": "https://placekitten.com/240/135?image=4",
+        "itemNumber": 18,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 18",
+      },
+      {
+        "description": "meow cat nyaa kitty nyaa neko. meow mix neko kitty cat nyan meow cat mix meow. neko meoooww nyan kitty meoooww mix mix. kitty neko nyan meow neko meoooww nyaa. meoooww nyaa kitty nyan cat neko. meoooww kitty mix nyan nyaa meoooww nyaa.",
+        "id": "05575ee1-39a2-4f39-9e2d-30dcc25e3a86",
+        "image": "https://placekitten.com/240/135?image=13",
+        "itemNumber": 19,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 40,
+            "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 19",
+      },
+      {
+        "description": "neko neko meow meow meow kitty. neko kitty neko meoooww mix meow kitty cat. cat kitty nyan meoooww cat.",
+        "id": "d9a996ea-cbe1-4e70-af74-1075fe1e66e2",
+        "image": "https://placekitten.com/240/135?image=13",
+        "itemNumber": 20,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 15,
+            "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 20",
+      },
+      {
+        "description": "mix meow nyaa mix. neko nyan meoooww meoooww cat cat cat meow cat. meoooww mix meow mix cat nyaa neko mix kitty neko. neko neko meoooww nyan cat kitty neko meoooww cat nyan. meow mix nyaa.",
+        "id": "f199f681-8c06-4dec-b0bb-4dcd9238556c",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 21,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 21",
+      },
+      {
+        "description": "neko nyan mix meow. nyaa nyan meow kitty cat kitty. nyaa mix mix meow meow kitty nyan nyaa. mix nyaa cat neko. nyaa nyan neko nyaa cat. meoooww kitty meow nyaa nyan mix meow kitty cat.",
+        "id": "8cd89fd5-b059-4bfd-8098-085fd7b2e19d",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 22,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 22",
+      },
+      {
+        "description": "neko nyaa cat nyan meoooww cat meoooww nyaa meow nyan. meoooww cat nyaa nyan nyan meow. nyaa neko kitty nyan meow kitty. meoooww mix nyaa meow cat neko nyan nyan cat neko.",
+        "id": "3ba0cb86-73aa-48da-a9ce-8a6b4db5c9a3",
+        "image": "https://placekitten.com/240/135?image=12",
+        "itemNumber": 23,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 21,
+            "url": "https://www.youtube.com/watch?v=n_-kAq7gO1s",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 23",
+      },
+      {
+        "description": "kitty nyaa nyan nyaa cat mix kitty. kitty meow kitty kitty. nyaa kitty meoooww nyan nyan. meow nyan mix cat mix kitty meow meow meoooww. nyan neko meoooww nyan nyaa cat nyan nyan meow nyan.",
+        "id": "474d1145-20a8-4cd9-bc66-f661cbc1dc66",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 24,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 6,
+            "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 24",
+      },
+    ],
+    "originalAudioType": {
+      "id": 1,
+      "name": "Japanese",
+    },
+    "subtitles": [
+      {
+        "id": 1,
+        "name": "English",
+      },
+    ],
+    "title": "Test Override",
+    "type": "series",
+  },
+  "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+  "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+  "image": "https://placekitten.com/240/135?image=7",
+  "itemNumber": 1,
+  "seasonNumber": 1,
+  "source": {
+    "metadata": {
+      "totalDuration": 27,
+      "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+    },
+    "source": "youtube",
+  },
+  "title": "Test Override",
+}
+`;
+
+exports[`createNextItemFixture > should work without anything passed in 1`] = `
+{
+  "contentGroup": {
+    "additionalContentAudioTypes": [
+      {
+        "id": 2,
+        "name": "English",
+      },
+    ],
+    "description": "Rent a cat for a day to adore in its cuteness",
+    "genres": [
+      "romance",
+      "comedy",
+      "harem",
+    ],
+    "id": 1,
+    "images": {
+      "asFeed": "https://placekitten.com/150/225?image=9",
+      "asPageHeader": "https://placekitten.com/1200/675?image=9",
+    },
+    "items": [
+      {
+        "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+        "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 1,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Test Override",
+      },
+      {
+        "description": "kitty meow kitty kitty. meoooww mix kitty meow mix meoooww nyan kitty nyaa meoooww. cat neko kitty mix nyan nyaa neko meoooww. nyan meow meow mix meow.",
+        "id": "4b3eaaa0-f84b-4113-8450-a8dc74f492d7",
+        "image": "https://placekitten.com/240/135?image=4",
+        "itemNumber": 2,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 42,
+            "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 2",
+      },
+      {
+        "description": "cat nyaa mix neko kitty. nyan cat cat meoooww cat neko. nyaa nyan nyan meow nyan cat neko mix kitty meoooww.",
+        "id": "8a0bfe2e-725d-4cf7-8832-2b51513e5e54",
+        "image": "https://placekitten.com/240/135?image=8",
+        "itemNumber": 3,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 9,
+            "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 3",
+      },
+      {
+        "description": "neko kitty nyan cat meow mix kitty meow. meow kitty nyaa nyan nyan. meow nyan kitty nyan. meow meow nyaa nyaa nyan meoooww meow mix nyaa.",
+        "id": "8621f4ca-3988-401a-8c0e-2ec95d5d96cd",
+        "image": "https://placekitten.com/240/135?image=5",
+        "itemNumber": 4,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 40,
+            "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 4",
+      },
+      {
+        "description": "nyaa meoooww cat meow kitty meow nyaa meoooww meoooww. meow meow nyaa mix nyan nyaa meoooww meow. mix kitty mix meoooww cat nyan neko cat meow. nyan meow meow nyan meow cat nyan nyaa mix. mix meoooww meow kitty neko meoooww mix.",
+        "id": "47cc2395-22d7-490b-9e0c-7aa223339e8e",
+        "image": "https://placekitten.com/240/135?image=8",
+        "itemNumber": 5,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 19,
+            "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 5",
+      },
+      {
+        "description": "neko kitty mix kitty. meow kitty nyan meow meoooww mix meow. meoooww meow meow meoooww. meow nyan nyaa kitty kitty nyan meow meow nyaa neko. meoooww cat mix nyaa. nyan neko meow nyan meow meow meoooww mix nyaa.",
+        "id": "b121fb29-832b-4a29-a904-4105d4d33705",
+        "image": "https://placekitten.com/240/135?image=16",
+        "itemNumber": 6,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 15,
+            "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 6",
+      },
+      {
+        "description": "meoooww meoooww nyaa mix meoooww mix kitty mix. nyan cat neko neko meow neko meow meoooww. meow meow nyan meoooww neko kitty mix. mix meoooww meow meoooww mix cat. mix neko nyan meow cat nyan mix nyaa meoooww. meow kitty kitty nyaa.",
+        "id": "6976a36b-7675-4f65-9c1c-1e871e80be9d",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 7,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 7",
+      },
+      {
+        "description": "cat meoooww meow. cat nyan neko. nyaa cat cat meoooww neko neko cat nyaa nyaa nyaa.",
+        "id": "a196ae4f-bd08-4e3d-9773-0c288b0c0c18",
+        "image": "https://placekitten.com/240/135?image=16",
+        "itemNumber": 8,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 42,
+            "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 8",
+      },
+      {
+        "description": "nyan mix neko cat cat cat meoooww. nyaa nyan cat. cat meoooww kitty kitty kitty. nyaa nyan nyaa meoooww neko kitty neko cat. kitty nyaa neko meow meoooww nyan meow.",
+        "id": "5f40a241-d7a1-41f4-86cd-5e7fc0c63e1d",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 9,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 42,
+            "url": "https://www.youtube.com/watch?v=I8Z0frbryYg",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 9",
+      },
+      {
+        "description": "meow mix nyaa. meow cat kitty kitty kitty nyaa. meow meoooww neko mix meoooww nyaa nyaa meoooww nyaa cat. meow nyaa neko.",
+        "id": "fc65c00e-3191-4bd7-9a31-d4bdb1915d6e",
+        "image": "https://placekitten.com/240/135?image=13",
+        "itemNumber": 10,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 28,
+            "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 10",
+      },
+      {
+        "description": "mix meoooww nyaa kitty. nyan cat kitty cat cat kitty neko meow kitty mix. nyan meoooww mix meoooww meoooww neko nyan cat.",
+        "id": "b896cf28-24fd-4485-8bf6-870df879f15c",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 11,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 29,
+            "url": "https://www.youtube.com/watch?v=GaL1vUm2zCk",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 11",
+      },
+      {
+        "description": "mix nyaa meow kitty neko mix cat meoooww nyaa. cat cat meow cat nyaa kitty cat. cat neko mix kitty nyaa meoooww kitty.",
+        "id": "d568ac36-fd7a-471c-86ea-cd6cd2e6745c",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 12,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 40,
+            "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 12",
+      },
+      {
+        "description": "neko nyan kitty kitty nyan neko neko meoooww meoooww. mix neko nyan meow nyaa cat kitty meow nyan neko. meoooww nyaa kitty mix mix meoooww kitty nyaa nyaa.",
+        "id": "105b90d4-44c3-4d38-b4e2-8a80f6afa239",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 13,
+        "seasonNumber": 1,
+        "source": {
+          "metadata": {
+            "totalDuration": 19,
+            "url": "https://www.youtube.com/watch?v=eCUIZ02mOuY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 13",
+      },
+      {
+        "description": "meow nyaa nyan meow. meow nyan cat. cat nyan neko mix neko neko nyan nyaa meow. kitty kitty neko nyan neko meoooww kitty mix mix kitty.",
+        "id": "28f92084-5cc0-4462-84cf-f4d72ba11f52",
+        "image": "https://placekitten.com/240/135?image=12",
+        "itemNumber": 14,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 15,
+            "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 14",
+      },
+      {
+        "description": "nyan neko nyaa cat meoooww nyan. meow mix cat cat cat neko kitty. nyaa mix neko nyaa cat meow meoooww kitty kitty neko. meoooww meow nyan cat meoooww meow nyan meoooww meoooww. mix nyaa kitty cat cat cat kitty neko meow cat.",
+        "id": "bfa1c178-729c-4514-a73f-c3a3a20ed31b",
+        "image": "https://placekitten.com/240/135?image=15",
+        "itemNumber": 15,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 6,
+            "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 15",
+      },
+      {
+        "description": "mix nyan meoooww meow kitty neko meow meoooww nyan. nyaa meow cat. meoooww nyaa kitty nyaa mix meoooww nyan nyan. cat meow nyan nyaa. nyan neko meow mix.",
+        "id": "8491a05b-bfa4-4f3c-bdf2-52e6603a7040",
+        "image": "https://placekitten.com/240/135?image=10",
+        "itemNumber": 16,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 9,
+            "url": "https://www.youtube.com/watch?v=YorcAjNv3dM",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 16",
+      },
+      {
+        "description": "nyan nyaa nyaa neko meow. cat kitty nyan cat meow nyaa mix. meow nyaa nyan meoooww cat cat meow nyan neko. nyaa meoooww meow mix mix cat.",
+        "id": "dfcc32c9-965f-461b-821b-65a8c4321174",
+        "image": "https://placekitten.com/240/135?image=16",
+        "itemNumber": 17,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 28,
+            "url": "https://www.youtube.com/watch?v=OHOU2cNx9Qc",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 17",
+      },
+      {
+        "description": "neko nyan cat. nyaa nyaa kitty nyan cat cat. mix cat cat cat kitty nyaa meoooww neko nyaa meoooww. kitty kitty nyan nyaa meow. nyan nyan kitty.",
+        "id": "a5a50666-64a3-4b79-a1d7-fd3c4318c426",
+        "image": "https://placekitten.com/240/135?image=4",
+        "itemNumber": 18,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 18",
+      },
+      {
+        "description": "meow cat nyaa kitty nyaa neko. meow mix neko kitty cat nyan meow cat mix meow. neko meoooww nyan kitty meoooww mix mix. kitty neko nyan meow neko meoooww nyaa. meoooww nyaa kitty nyan cat neko. meoooww kitty mix nyan nyaa meoooww nyaa.",
+        "id": "05575ee1-39a2-4f39-9e2d-30dcc25e3a86",
+        "image": "https://placekitten.com/240/135?image=13",
+        "itemNumber": 19,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 40,
+            "url": "https://www.youtube.com/watch?v=HrCy2EXwF34",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 19",
+      },
+      {
+        "description": "neko neko meow meow meow kitty. neko kitty neko meoooww mix meow kitty cat. cat kitty nyan meoooww cat.",
+        "id": "d9a996ea-cbe1-4e70-af74-1075fe1e66e2",
+        "image": "https://placekitten.com/240/135?image=13",
+        "itemNumber": 20,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 15,
+            "url": "https://www.youtube.com/watch?v=N2pDxflyGU4",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 20",
+      },
+      {
+        "description": "mix meow nyaa mix. neko nyan meoooww meoooww cat cat cat meow cat. meoooww mix meow mix cat nyaa neko mix kitty neko. neko neko meoooww nyan cat kitty neko meoooww cat nyan. meow mix nyaa.",
+        "id": "f199f681-8c06-4dec-b0bb-4dcd9238556c",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 21,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 21",
+      },
+      {
+        "description": "neko nyan mix meow. nyaa nyan meow kitty cat kitty. nyaa mix mix meow meow kitty nyan nyaa. mix nyaa cat neko. nyaa nyan neko nyaa cat. meoooww kitty meow nyaa nyan mix meow kitty cat.",
+        "id": "8cd89fd5-b059-4bfd-8098-085fd7b2e19d",
+        "image": "https://placekitten.com/240/135?image=6",
+        "itemNumber": 22,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 27,
+            "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 22",
+      },
+      {
+        "description": "neko nyaa cat nyan meoooww cat meoooww nyaa meow nyan. meoooww cat nyaa nyan nyan meow. nyaa neko kitty nyan meow kitty. meoooww mix nyaa meow cat neko nyan nyan cat neko.",
+        "id": "3ba0cb86-73aa-48da-a9ce-8a6b4db5c9a3",
+        "image": "https://placekitten.com/240/135?image=12",
+        "itemNumber": 23,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 21,
+            "url": "https://www.youtube.com/watch?v=n_-kAq7gO1s",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 23",
+      },
+      {
+        "description": "kitty nyaa nyan nyaa cat mix kitty. kitty meow kitty kitty. nyaa kitty meoooww nyan nyan. meow nyan mix cat mix kitty meow meow meoooww. nyan neko meoooww nyan nyaa cat nyan nyan meow nyan.",
+        "id": "474d1145-20a8-4cd9-bc66-f661cbc1dc66",
+        "image": "https://placekitten.com/240/135?image=7",
+        "itemNumber": 24,
+        "seasonNumber": 2,
+        "source": {
+          "metadata": {
+            "totalDuration": 6,
+            "url": "https://www.youtube.com/watch?v=avUE3RFh-nY",
+          },
+          "source": "youtube",
+        },
+        "title": "Episode 24",
+      },
+    ],
+    "originalAudioType": {
+      "id": 1,
+      "name": "Japanese",
+    },
+    "subtitles": [
+      {
+        "id": 1,
+        "name": "English",
+      },
+    ],
+    "title": "Test Override",
+    "type": "series",
+  },
+  "description": "neko mix nyan. meoooww cat nyan kitty cat kitty meow mix. meow mix neko meow mix.",
+  "id": "e5325a89-cf86-4266-8481-25925eea35d5",
+  "image": "https://placekitten.com/240/135?image=7",
+  "itemNumber": 1,
+  "seasonNumber": 1,
+  "source": {
+    "metadata": {
+      "totalDuration": 27,
+      "url": "https://www.youtube.com/watch?v=edgBlTHq7RI",
+    },
+    "source": "youtube",
+  },
+  "title": "Test Override",
+}
+`;
