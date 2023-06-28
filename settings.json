@@ -2,7 +2,7 @@
   "appSettings": {
     "stage": {
       "useImageWorker": true,
-      "clearColor": "0xff000000",
+      "clearColor": "0x00000000",
       "w": 1920,
       "h": 1080,
       "precision": 1,

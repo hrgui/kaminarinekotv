@@ -12,6 +12,8 @@ export default class Home extends Lightning.Component {
     return {
       w: 1920,
       h: 1080,
+      rect: true,
+      color: 0xff000000,
       Background: {
         w: 1920,
         h: 1080,

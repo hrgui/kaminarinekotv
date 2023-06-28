@@ -11,7 +11,8 @@ export default class ContentDetails extends Lightning.Component {
     return {
       w: 1920,
       h: 1080,
-
+      rect: true,
+      color: 0xff000000,
       Background: {},
       Content: {
         flex: { direction: "row" },

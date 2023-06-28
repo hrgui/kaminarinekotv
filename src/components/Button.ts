@@ -2,6 +2,7 @@ import { Lightning } from "@lightningjs/sdk";
 
 export default class Button extends Lightning.Component {
   buttonText?: string;
+  action: any;
 
   static override _template() {
     return {
@@ -16,8 +17,16 @@ export default class Button extends Lightning.Component {
       },
     };
   }
+
+  // override _handleEnter(e: any) {
+  //   if (this.action) {
+  //     this.action && typeof this.action === "function" && this.action();
+  //   } else {
+  //     super._handleEnter?.(e);
+  //   }
+  // }
+
   override _init() {
-    console.log("Button", this.buttonText);
     this.tag("Label").patch({ text: { text: this.buttonText } });
   }
   override _focus() {

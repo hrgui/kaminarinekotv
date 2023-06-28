@@ -1,14 +1,14 @@
-import { Lightning, Utils, Router, Colors } from '@lightningjs/sdk'
-import routes from './routes'
-import colors from './colors'
+import { Lightning, Utils, Router, Colors } from "@lightningjs/sdk";
+import routes from "./routes";
+import colors from "./colors";
 
 interface AppTemplateSpec extends Lightning.Component.TemplateSpec {
   Background: {
-    Logo: object
-    Mystery: object
-    Text: object
-    Text2: object
-  }
+    Logo: object;
+    Mystery: object;
+    Text: object;
+    Text2: object;
+  };
 }
 
 export class App extends Router.App {
@@ -16,33 +16,32 @@ export class App extends Router.App {
     return {
       w: 1920,
       h: 1080,
-      color: Colors('black').get(),
       ...super._template(),
-    }
+    };
   }
 
   override _setup() {
-    Router.startRouter(routes, this)
+    Router.startRouter(routes, this);
   }
 
   static getFonts() {
     return [
       {
-        family: 'Regular',
-        url: Utils.asset('fonts/Lato-Regular.ttf'),
+        family: "Regular",
+        url: Utils.asset("fonts/Lato-Regular.ttf"),
       },
       {
-        family: 'Semibold',
-        url: Utils.asset('fonts/Lato-Semibold.ttf'),
+        family: "Semibold",
+        url: Utils.asset("fonts/Lato-Semibold.ttf"),
       },
       {
-        family: 'Bold',
-        url: Utils.asset('fonts/Lato-Bold.ttf'),
+        family: "Bold",
+        url: Utils.asset("fonts/Lato-Bold.ttf"),
       },
-    ]
+    ];
   }
 
   static colors() {
-    return colors
+    return colors;
   }
 }

@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 import ContentDetails from "./pages/ContentDetails";
 import { getContentGroup } from "./api-client";
+import VideoPlayerPage from "./pages/VideoPlayer";
 
 const routes: Router.Config = {
   root: "splash",
@@ -19,6 +20,16 @@ const routes: Router.Config = {
     {
       path: "content/:id",
       component: ContentDetails as any,
+      on: async (page, { id }) => {
+        console.log("on", id, page);
+        if (id) {
+          (page as any).data = await getContentGroup(+id);
+        }
+      },
+    },
+    {
+      path: "watch/:id/upnext",
+      component: VideoPlayerPage as any,
       on: async (page, { id }) => {
         console.log("on", id, page);
         if (id) {
